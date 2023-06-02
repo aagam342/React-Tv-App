@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Tv-App/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Tv-App/static/js/main.235e5312.js",
+    "index.html": "/React-Tv-App/index.html",
+    "main.e6c13ad2.css.map": "/React-Tv-App/static/css/main.e6c13ad2.css.map",
+    "main.235e5312.js.map": "/React-Tv-App/static/js/main.235e5312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.235e5312.js"
+  ]
+}
